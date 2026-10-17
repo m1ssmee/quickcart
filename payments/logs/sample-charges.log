@@ -1,0 +1,16 @@
+2024-11-29T14:01:52.118Z INFO charge processed chargeId=ch_4a1c09e2bd orderId=ord_71c2aa90 amount=2100 currency=EUR status=succeeded ms=2212
+2024-11-29T14:01:55.640Z INFO charge processed chargeId=ch_b83f11a0c4 orderId=ord_0d93fe11 amount=5480 currency=EUR status=succeeded ms=2391
+2024-11-29T14:01:58.004Z INFO charge processed chargeId=ch_29de7741aa orderId=ord_5b1e7c32 amount=1250 currency=EUR status=declined ms=1874
+2024-11-29T14:02:03.771Z INFO charge processed chargeId=ch_c50e38d1f9 orderId=ord_9a4410bb amount=3999 currency=GBP status=succeeded ms=2466
+2024-11-29T14:02:07.402Z INFO charge processed chargeId=ch_17b0e9c3d2 orderId=ord_e2f81c07 amount=899 currency=EUR status=succeeded ms=2307
+2024-11-29T14:02:11.204Z INFO charge processed chargeId=ch_8d21f4a7c0 orderId=ord_8f3k2b61 amount=4650 currency=EUR status=succeeded ms=2433
+2024-11-29T14:02:13.311Z INFO charge processed chargeId=ch_f03a92be15 orderId=ord_8f3k2b61 amount=4650 currency=EUR status=succeeded ms=2388
+2024-11-29T14:02:16.950Z INFO charge processed chargeId=ch_61aa0c5e78 orderId=ord_33d7c4e0 amount=12900 currency=USD status=succeeded ms=2521
+2024-11-29T14:02:19.083Z INFO charge processed chargeId=ch_0b9e44f1a3 orderId=ord_a71b0e5d amount=2100 currency=EUR status=succeeded ms=2198
+2024-11-29T14:02:22.517Z INFO charge processed chargeId=ch_93cd17a0e6 orderId=ord_4f0c2d99 amount=760 currency=EUR status=declined ms=1702
+2024-11-29T14:02:25.866Z INFO charge processed chargeId=ch_2e7f50b3c1 orderId=ord_c8e1a204 amount=3350 currency=EUR status=succeeded ms=2412
+2024-11-29T14:02:29.240Z INFO charge processed chargeId=ch_ad0461e9f7 orderId=ord_19bb7e3f amount=1599 currency=GBP status=succeeded ms=2290
+2024-11-29T14:02:33.105Z INFO charge processed chargeId=ch_5c88b21de0 orderId=ord_e60d9a18 amount=4200 currency=EUR status=succeeded ms=2475
+2024-11-29T14:02:36.731Z INFO charge processed chargeId=ch_7f13ce08b4 orderId=ord_2a5f6c71 amount=2750 currency=USD status=succeeded ms=2356
+2024-11-29T14:02:40.019Z INFO charge processed chargeId=ch_e4b9a6d203 orderId=ord_b07e33c5 amount=990 currency=EUR status=succeeded ms=2144
+2024-11-29T14:02:43.588Z INFO charge processed chargeId=ch_38f0d7e1a9 orderId=ord_6d2c90fa amount=6100 currency=EUR status=succeeded ms=2489
